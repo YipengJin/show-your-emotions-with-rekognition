@@ -2,7 +2,7 @@
 import base64
 
 # Choose an image
-IMAGE_PATH = "<path_to_the_image>"
+IMAGE_PATH = "/pexels-photo-415829.jpeg"
 ENCODING="utf-8"
 
 with open(IMAGE_PATH, "rb") as image_file:    
